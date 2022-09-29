@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Kay
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning R and python
+- 🌱 I’m currently working with R
 - :nerd_face: Analyst for the Ohio Performance Team
 
  
