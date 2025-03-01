@@ -1,4 +1,4 @@
-- 👋 Welcome, I’m Alex Kay
+- 👋 Welcome, I’m Alex
 - 👀 I’m interested in data analytics
 - :nerd_face: Analyst for the Ohio Performance Team since 2021!
 
