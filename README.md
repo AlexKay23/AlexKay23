@@ -1,9 +1,12 @@
 - 👋 Welcome, I’m Alex
 - 👀 I’m interested in data analytics
-- :nerd_face: Analyst for the Ohio Performance Team since 2021!
+- :nerd_face: Analyst for the Ohio Auditor of State in the Ohio Performance Team since 2021!
 
 ## Current Projects
-I am currently working on two analysis of soccer leauges: [Serie A 2024/2025](https://github.com/AlexKay23/SerieA_Analysis)  ![Italy](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/it.png "Italy") and [MLS 2025 Season](https://github.com/AlexKay23/mls_analysis) ![USA](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "USA")
+
+I am currently working on a fantasy football project that creates engaging visuals for weekly recaps for my fantasy football league,  [OPTFFL](https://github.com/AlexKay23/2026-OPTFFL). Project has helped me develop story telling with thought data visualizations and keeping my R skills fresh.
+
+Previous projects I am proud of are my analysis in visuals: [Serie A 2024/2025](https://github.com/AlexKay23/SerieA_Analysis)  ![Italy](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/it.png "Italy") and [MLS 2025 Season](https://github.com/AlexKay23/mls_analysis) ![USA](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "USA"). 
 
 #
 <p align="center">
